@@ -1,0 +1,7 @@
+start: Would you like for me to get the average of two numbers?
+
+yes: Please say two numbers you would like for me to average.
+
+no: Don't call me then. Good bye.
+
+end: Thank you for using Average. Good bye. 
